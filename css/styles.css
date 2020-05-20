@@ -1,0 +1,34 @@
+/*body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+#nav-list{
+  text-align: center;
+  background-color: yellow;
+  font-size: 16px;
+}
+
+.navbar-brand {
+  padding-top: 20px;
+  font-size: 40px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.content{
+    background-color: #FFD700 ;
+    height: 1000px;
+}
+.horiz-line{
+  margin:0px;
+}
